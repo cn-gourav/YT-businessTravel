@@ -24,7 +24,7 @@ This project is a **beautiful, interactive slider** featuring dynamic transition
 - git clone :
 
 ```javascript
- https://github.com/cn-gourav/YT-silderAnimation.git
+https://github.com/cn-gourav/YT-businessTravel.git
 ```
 
 ✨✨
